@@ -1,105 +1,90 @@
-================================================================================
-                         NignxSchool - GitHub Profile
-================================================================================
+<!-- ===== GLASSMORPHISM GITHUB PROFILE ===== -->
 
-Hi 👋, I'm NignxSchool
-A passionate Software developer from India
+<div align="center">
 
-================================================================================
-ABOUT ME
-================================================================================
+<h1>👋 Hi, I'm <span style="color:#7dd3fc">NginxSchool</span></h1>
+<h3>A passionate Software Developer from India 🇮🇳</h3>
 
-🔭 I'm currently working on software YouTube
+<img src="https://komarev.com/ghpvc/?username=nginxschool&label=Profile%20views&color=7dd3fc&style=flat" />
 
-🌱 I'm currently learning software
+<br/><br/>
 
-👯 I'm looking to collaborate on any projects
+<!-- GLASS CARD -->
+<div style="
+  backdrop-filter: blur(14px);
+  background: rgba(255,255,255,0.08);
+  border-radius: 18px;
+  padding: 22px;
+  width: 85%;
+  border: 1px solid rgba(255,255,255,0.18);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.25);
+">
 
-🤝 I'm looking for help with all aspects of development
+🔭 Working on **YouTube & Software Projects**  
+🌱 Learning **Backend, DevOps & Cloud**  
+👯 Open to collaborate on **Any Tech Project**  
+💬 Ask me about **Docker, Nginx, Ubuntu, MongoDB, Node.js, React**  
+📫 Reach me at **nginxschool@gmail.com**  
 
-👨‍💻 All of my projects are available at https://github.com/nginxschool
+</div>
 
-📝 I regularly write articles on https://nginxschool.com
+<br/>
 
-💬 Ask me about: docker, nginx, ubuntu, sql, mongodb, nodejs, react, html, css, js, aws, and more
+<!-- TECH STACK -->
+<div style="
+  backdrop-filter: blur(14px);
+  background: rgba(255,255,255,0.08);
+  border-radius: 18px;
+  padding: 20px;
+  width: 85%;
+  border: 1px solid rgba(255,255,255,0.18);
+">
 
-📫 How to reach me: nginxschool@gmail.com
+### 🛠 Languages & Tools
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,mongodb,mysql,nodejs,react,js,html,css,git,github,aws&perline=7" />
 
-================================================================================
-CONNECT WITH ME
-================================================================================
+</div>
 
-YouTube: https://www.youtube.com/@nginxschool
-GitHub: https://github.com/nginxschool
-Email: nginxschool@gmail.com
+<br/>
 
-================================================================================
-LANGUAGES AND TOOLS
-================================================================================
+<!-- SOCIAL -->
+<div style="
+  backdrop-filter: blur(14px);
+  background: rgba(255,255,255,0.08);
+  border-radius: 18px;
+  padding: 20px;
+  width: 85%;
+  border: 1px solid rgba(255,255,255,0.18);
+">
 
-Backend & Frameworks:
-  - Node.js
-  - Django
-  - Express.js
-  - .NET
+### 🌐 Connect with Me
+<a href="https://www.youtube.com/@nginxschool">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
+</a>
 
-Frontend:
-  - React
-  - HTML
-  - CSS
-  - JavaScript
-  - Bootstrap
+</div>
 
-Databases:
-  - SQL
-  - MongoDB
+<br/>
 
-DevOps & Infrastructure:
-  - Docker
-  - Nginx
-  - Ubuntu
-  - AWS
+<!-- STATS -->
+<div style="
+  backdrop-filter: blur(14px);
+  background: rgba(255,255,255,0.08);
+  border-radius: 18px;
+  padding: 20px;
+  width: 85%;
+  border: 1px solid rgba(255,255,255,0.18);
+">
 
-Programming Languages:
-  - C
-  - C++
-  - C#
-  - JavaScript
-  - Python
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=nginxschool&show_icons=true&theme=transparent" />
+<br/>
+<img src="https://github-readme-streak-stats.demolab.com?user=nginxschool&theme=transparent" />
 
-IoT & Embedded:
-  - Arduino
+</div>
 
-================================================================================
-TECHNICAL SKILLS
-================================================================================
+<br/>
 
-Containerization: Docker
-Web Servers: Nginx
-Operating Systems: Ubuntu
-Databases: SQL, MongoDB
-Backend: Node.js, Express, Django, .NET
-Frontend: React, HTML, CSS, JavaScript
-Cloud: AWS
-Web Frameworks: Bootstrap
-IoT: Arduino
-Programming: C, C++, C#, JavaScript, Python
+<p>✨ Building skills one commit at a time</p>
 
-================================================================================
-GITHUB STATISTICS
-================================================================================
-
-For detailed statistics and contribution graphs, visit:
-https://github.com/nginxschool
-
-================================================================================
-PROFILE VIEWS
-================================================================================
-
-This profile has been viewed many times. Check the live stats at:
-https://komarev.com/ghpvc/?username=nignxschool
-
-================================================================================
-
-Last Updated: 2026
-For more information, visit: https://github.com/nginxschool
+</div>
